@@ -1,2 +1,2 @@
-# composers
-Timeline of composers
+# Timeline
+Utilities for generating timelines
